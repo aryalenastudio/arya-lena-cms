@@ -1,0 +1,13 @@
+/vendor/
+/storage/cache/*
+/storage/logs/*
+/storage/backups/*
+/public/uploads/*
+
+.env
+
+.idea/
+.vscode/
+
+.DS_Store
+Thumbs.db
